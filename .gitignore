@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Artifacts
+artifacts/
+
+# Data
+data/raw/
+
+# Models
+*.joblib
+*.pkl
+*.npz
+*.npy
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log

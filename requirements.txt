@@ -1,0 +1,14 @@
+numpy
+pandas
+scikit-learn
+xgboost
+joblib
+matplotlib
+plotly
+seaborn
+streamlit
+shap
+
+qiskit
+qiskit-machine-learning
+qiskit-algorithms

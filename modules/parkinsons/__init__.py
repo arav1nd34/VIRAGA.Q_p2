@@ -1,0 +1,3 @@
+"""
+Parkinson's diagnostic module.
+"""
